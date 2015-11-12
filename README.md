@@ -25,7 +25,7 @@ Build a simple application that allows a user to complete following sequential p
 * The ‘Upload Image’ button is not enabled until the user has logged in with Facebook. 
 
 
-![Screenshot_20151012-184725.png](https://bitbucket.org/repo/oyee85/images/3111477370-Screenshot_20151012-184725.png)
+![Screenshot_20151012-184725.png](https://goo.gl/photos/tq3vKucvacaENGCp6)
 
 #### Image Upload Screen ####
 
