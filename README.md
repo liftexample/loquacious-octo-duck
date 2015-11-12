@@ -35,16 +35,16 @@ Build a simple application that allows a user to complete following sequential p
 * The image is then displayed cropped inside the same area that was occupied by the + button. 
 * Clicking the image also displays the chooser
 
-![Screenshot_20151012-184717.png](https://bitbucket.org/repo/oyee85/images/1626013789-Screenshot_20151012-184717.png)
+![pic2.png](pics/pic2.png)
 
-![Screenshot_20151012-184700.png](https://bitbucket.org/repo/oyee85/images/3432495446-Screenshot_20151012-184700.png)
+![pic3.png](pics/pic3.png)
 
 #### Upload Confirmation Screen ####
 
 * Show this screen after the upload has completed
 * The screen will show one button “Done” which will take the user back to the Main Screen to start the process again.
 
-![Screenshot_20151012-184752.png](https://bitbucket.org/repo/oyee85/images/61502190-Screenshot_20151012-184752.png)
+![pic4.png](pics/pic4.png)
 
 ### Who do I talk to? ###
 
